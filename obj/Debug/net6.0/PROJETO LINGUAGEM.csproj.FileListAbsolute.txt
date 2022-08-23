@@ -1,0 +1,15 @@
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\bin\Debug\net6.0\PROJETO LINGUAGEM.exe
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\bin\Debug\net6.0\PROJETO LINGUAGEM.deps.json
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\bin\Debug\net6.0\PROJETO LINGUAGEM.runtimeconfig.json
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\bin\Debug\net6.0\PROJETO LINGUAGEM.dll
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\bin\Debug\net6.0\PROJETO LINGUAGEM.pdb
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.AssemblyInfo.cs
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.dll
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\refint\PROJETO LINGUAGEM.dll
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.pdb
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\PROJETO LINGUAGEM.genruntimeconfig.cache
+C:\Users\leona\Desktop\PROJETO LINGUAGEM\obj\Debug\net6.0\ref\PROJETO LINGUAGEM.dll
